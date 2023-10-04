@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                         child: CircleAvatar(
                           radius: 45,
                           foregroundImage: NetworkImage(
-                              'https://i.ibb.co/CB3FvKt/sabbir.jpg'),
+                              'https://i.ibb.co/QpYrSBK/nazmul.jpg?fbclid=IwAR2iNQkbheVac25db2Hu657WZiDBbQHdgcxhs_29e3fEYIUT6j_-pl9WuOE'),
                         ),
                       ),
                     ],
@@ -90,13 +90,13 @@ class _HomePageState extends State<HomePage> {
                   mainAxisAlignment: MainAxisAlignment.start,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text("Md Sabbir Hosen"),
+                    Text("Md Nazmul Islam"),
                     Text(
-                      "ID: 192071022",
+                      "ID: 201071046",
                       style: TextStyle(color: Colors.blueAccent),
                     ),
                     Text(
-                      "REG.NO.: 191753471",
+                      "REG.NO.: 201754380",
                       style: TextStyle(color: Colors.blueAccent),
                     ),
                     Text("Dept Of Computer Science & Engineering (B.Sc. CSE)"),
